@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![logo](https://github.com/MigueLopJoy/MigueLopJoy/blob/main/Assets/WhatsApp%20Image%202023-02-13%20at%2017.21.59.jpeg)
+
 <!--
 **MigueLopJoy/MigueLopJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
